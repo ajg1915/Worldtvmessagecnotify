@@ -1,9 +1,9 @@
-2
+1
 ||| 
 
 WORLDTV UPDATE CENTER *New*
 --------------------------------------------------------------------------------                                                         
-<COLORlimegreen>We are Currently fixing The New Build Please Read our News Feeds for Updates</COLOR>  
+We are Currently fixing The New Build Please Read our News Feeds for Updates
 --------------------------------------------------------------------------------
 To all WorldTV Users we are currently Make a new build where you can Update Automacially
 In Addition right Now we are in a beta Stage 2 Which Will Fix all bugs, However Please

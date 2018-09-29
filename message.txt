@@ -1,11 +1,20 @@
-1
+2
 ||| 
 
+
+WORLDTV UPDATE CENTER *New*
 --------------------------------------------------------------------------------                                                         
-We are Currently fixing The New Build Please Read our News Feeds for Updates  
+<COLORlimegreen>We are Currently fixing The New Build Please Read our News Feeds for Updates</COLOR>  
 --------------------------------------------------------------------------------
-[COLORlimegreen]Current Update: WorldTV 1.6[/COLOR] 
-
-Our Servers are down at the moment please Stay with us for Updates 
-
-Current WorldTV 1.6- 8/15/2018                                            
+<COLORlimegreen>Here is the Latest News around WorldTV :</COLOR>
+To all WorldTV Users we are currently Make a new build where you can Update Automacially
+In Addition right Now we are in a beta Stage 2 Which Will Fix all bugs, However Please
+be advised that the Current Build Works Fine if trying to do update you can't at this time.
+--------------------------------------------------------------------------------
+<COLORlimegreen>Here is what's coming to WorldTV :</COLOR>
+1) All addons will be updated automcially and added to the New Wizard 
+2) All Adult Addons will be in Code #0000 This is for Kids Protection 
+3) All Movies and TVShows will have New Sections and Will Have Live Section as well
+4) In Late 2018 We will have everything updated through VIA internet through our server. 
+-----------------------------------------------------------------------------------------
+                                        

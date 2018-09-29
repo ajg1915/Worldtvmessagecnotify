@@ -1,7 +1,6 @@
 2
 ||| 
 
-
 WORLDTV UPDATE CENTER *New*
 --------------------------------------------------------------------------------                                                         
 <COLORlimegreen>We are Currently fixing The New Build Please Read our News Feeds for Updates</COLOR>  
@@ -14,5 +13,4 @@ be advised that the Current Build Works Fine if trying to do update you can't at
 2) All Adult Addons will be in Code #0000 This is for Kids Protection 
 3) All Movies and TVShows will have New Sections and Will Have Live Section as well
 4) In Late 2018 We will have everything updated through VIA internet through our server. 
------------------------------------------------------------------------------------------
-                                        
+-----------------------------------------------------------------------------------------                                   

@@ -5,7 +5,7 @@ WORLDTV UPDATE CENTER *New*
 --------------------------------------------------------------------------------                                                         
 [COLORlimegreen]Navagation :[/COLOR] Scroll Left for extend Menu for each section :?
 --------------------------------------------------------------------------------
-Menu's
+WorldTV Menu: [COLORlimegreen]* If need any help go to World.TV Live for Missed Content[/COLOR] 
 -----------------
 Quick Search: Movies and TVShows List/ Submenu: Has all Live Content 
 In theaters: Have the Latest Movies and Latest In theaters playing content 
@@ -15,4 +15,3 @@ Kids: Characters List with the Latest Movies
 Music: Largest Music Playlist
 WorldTv: Has the Latest Addons and can view them at willing for best content. 
 -------------------------------------------------------------------
-If any help go to World.TV Live to view any content within WorldTV 

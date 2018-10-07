@@ -3,14 +3,18 @@
 
 WORLDTV UPDATE CENTER *New*
 --------------------------------------------------------------------------------                                                         
-We are Currently No longer in any beta Stages any longer 
+[COLORlimegreen]Navagation :[/COLOR] Scroll Left for extend Menu for each section :?
 --------------------------------------------------------------------------------
-To all WorldTV Users we are currently Make a new build where you can Update Automacially
-In Addition right Now we are Completed the stage version and now are back online we will notify
-all users in 72 hours on the url and links to get our new Repo and Build Thank you From WorldTV.....
---------------------------------------------------------------------------------
-1) All addons will be updated automcially and added to the New Wizard 
-2) All Adult Addons will be in Code #0000 This is for Kids Protection 
-3) All Movies and TVShows will have New Sections and Will Have Live Section as well
-4) In Late 2018 We will have everything updated through VIA internet through our server. 
------------------------------------------------------------------------------------------                                   
+Menu's
+-----------------
+Quick Search: Movies and TVShows List/ Submenu: Has all Live Content 
+In theaters: Have the Latest Movies and Latest In theaters playing content 
+Sports: Categories of the Largest Live Content / Submenu: Live Network Streams/ Addons
+Adults: Adult Content of Categories
+Kids: Characters List with the Latest Movies 
+Music: Largest Music Playlist
+WorldTv: Has the Latest Addons and can view them at willing for best content. 
+--------------------------------------------------------------------------
+[COLORlimegreen]How to Clean Device:[/COLOR] Hold down the back key on your remote while on menu screen.
+go to WorldTV Clean and click on the first icon and go back to WTV Home screen its complete.
+-------------------------------------------------------------------------

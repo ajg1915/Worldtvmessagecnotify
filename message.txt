@@ -7,10 +7,10 @@ WorldTV Latest News: The Sports Links in Quick Search Run Laggly Be Patiant it d
 --------------------------------------------------------------------------------
 WorldTV Menu: [COLORlimegreen]* If need any help go to World.TV Live for Missed Content[/COLOR] 
 -----------------
-Quick Search: Movies and TVShows List/ Submenu: Has all Live Content 
-In theaters: Have the Latest Movies and Latest In theaters playing content 
-Sports: Categories of the Largest Live Content / Submenu: Live Network Streams/ Addons
-Adults: Adult Content of Categories
-Kids: Characters List with the Latest Movies 
-Music: Largest Music Playlist
-WorldTv: Has the Latest Addons and can view them at willing for best content. 
+[COLORlimegreen]Quick Search:[/COLOR] Movies and TVShows List/ Submenu: Has all Live Content 
+[COLORlimegreen]In theaters:[/COLOR] Have the Latest Movies and Latest In theaters playing content 
+[COLORlimegreen]Sports:[/COLOR] Categories of the Largest Live Content / Submenu: Live Network Streams/ Addons
+[COLORlimegreen]Adults:[/COLOR] Adult Content of Categories
+[COLORlimegreen]Kids:[/COLOR] Characters List with the Latest Movies 
+[COLORlimegreen]Music:[/COLOR] Largest Music Playlist
+[COLORlimegreen]WorldTv:[/COLOR] Has the Latest Addons and can view them at willing for best content. 

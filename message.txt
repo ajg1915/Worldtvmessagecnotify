@@ -7,8 +7,8 @@ WorldTV Welcome Center Latest Build: 1.6 [COLORlimegreen] ~ Here What's New with
 --------------------------------------------------------------------------------
 WorldTV Menu: [COLORlimegreen]* If need any help go to World.TV Live for Missed Content[/COLOR] 
 -----------------
-[COLORlimegreen]LIVETV:[/COLOR] Live On Demand, Movies, Shows, Sports, Adult Content and More  
-[COLORlimegreen]Entertainment:[/COLOR] Have the Latest Movies and Latest In theaters playing content 
+[COLORlimegreen]LIVETV:[/COLOR] Live On Demand, Cinema, Shows, Sports, Adult Content and More  
+[COLORlimegreen]Entertainment:[/COLOR] In Theaters with Movies/ SubMenu: Search Movies To 4K Classic TV 
 [COLORlimegreen]Sports:[/COLOR] Categories of the Largest Live Content / Submenu: Live Network Streams/ Addons
 [COLORlimegreen]Fitness:[/COLOR] All Fitness Videos and Meal Videos
 [COLORlimegreen]Kids:[/COLOR] Characters List with the Latest Movies 

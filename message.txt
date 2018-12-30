@@ -1,16 +1,13 @@
 3
 |||                                                                                               
 
-World.TV Welcome Center Latest Build: 1.6 [COLORlimegreen] ~ Here What's *New* with World.TV ~ [/COLOR]
+World.TV Welcome Center Latest Build: 1.8 [COLORlimegreen] ~ Here What's *New* with WorldTV ~ [/COLOR]
 --------------------------------------------------------------------------------                                                         
 [COLORlimegreen]Navagation :[/COLOR] Scroll Left for extend Menu for each section
 --------------------------------------------------------------------------------
-World.TV Menu: [COLORlimegreen]* If Need Help Please Read The Instruction Guide [/COLOR] 
------------------
-[COLORlimegreen]LIVETV:[/COLOR] Live On Demand, Cinema, Shows, Sports, Adult Content and More  
-[COLORlimegreen]Entertainment:[/COLOR] In Theaters with Movies/ SubMenu: Search Movies To 4K Classic TV 
-[COLORlimegreen]Sports:[/COLOR] Categories of the Largest Live Content / Submenu: Live Network Streams/ Addons
-[COLORlimegreen]Fitness:[/COLOR] All Fitness Videos and Meal Videos
-[COLORlimegreen]Kids:[/COLOR] Characters List with the Latest Movies 
-[COLORlimegreen]Music:[/COLOR] Largest Music Playlist
-[COLORlimegreen]WorldTv:[/COLOR] Has the Latest Addons and can view them at willing for best content
+Navagation News - extended menu is the down arrow on pad menu is not clickable 
+--------------------------------------------------------------------------------
+WorldTV News - See other screen to view the status of live Content 
+----------------------------------------------------------------------------
+WorldTV Updates- See the third screen for whats new and updates for WorldTV
+-----------------------------------------------------------------------------------

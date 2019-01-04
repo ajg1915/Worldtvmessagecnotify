@@ -7,7 +7,7 @@ World.TV Welcome Center Latest Build: 1.8 [COLORlimegreen] ~ Here What's *New* w
 --------------------------------------------------------------------------------
 Navagation News - extended menu is the down arrow on pad menu is not clickable 
 --------------------------------------------------------------------------------
-WorldTV News - See other screen to view the status of live Content 
+WorldTV News - Make sure you use Hola VPN to Use WorldTV Read Next Tab for Info
 ----------------------------------------------------------------------------
 WorldTV Updates- See the third screen for whats new and updates on WorldTV
 -----------------------------------------------------------------------------------

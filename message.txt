@@ -3,9 +3,9 @@
 
 World.TV Welcome Center Latest Build: 1.8 [COLORlimegreen] ~ Here What's *New* with WorldTV ~ [/COLOR]
 --------------------------------------------------------------------------------                                                         
-[COLORlimegreen]Navagation :[/COLOR] Scroll Left for extend Menu for each section
+[COLORlimegreen]Navagation :[/COLOR] Scroll To the Right to see Menu Options and Tabs
 --------------------------------------------------------------------------------
-Navagation News - extended menu is the down arrow on pad menu is not clickable 
+Navagation- Move to the right once to see menu- Move again see Widgets on the Screen  
 ---------------------------------------------------------------------------------
 WorldTV Updates- See the third screen for whats new and updates on WorldTV
 -----------------------------------------------------------------------------------

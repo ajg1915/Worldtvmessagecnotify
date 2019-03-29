@@ -1,16 +1,13 @@
 2
-|||                                                                                               
+||| 
 
-WorldTV 2.0- [COLORlimegreen]Wait 45 Seconds for Menu to Fully Load[/COLOR]
---------------------------------------------------------------------------------                                                         
-[COLORlimegreen]Navagation :[/COLOR] Scroll Up to see Extended Menu
---------------------------------------------------------------------------------
-Here is The Newest Screen for WorldTV2.0 
-----------------------------------------------------------------------
-All Sections have a UPmenu but fitness  
-Highly Rated- live streams on TV Listings main screen
-Music- Search Menu is Now Updated 
-Sports- Sports Networks are on the UPmenu 
-Watch has All Live & Adult Content on UPmenu
------------------------------------------------------------
-Enjoy WORLDTV 2.0 
+Welcome to WorldTV Live Feed Updater: 
+----------------------------------------------------
+TV Listings Channels - [COLORlimegreen]Online[/COLOR] 
+MLB Network - [COLORlimegreen]Online[/COLOR]
+NFL Network - [COLORlimegreen]Online[/COLOR]
+NHL Network - [COLORlimegreen]Online[/COLOR]
+NBA Network - [COLORlimegreen]Online[/COLOR]
+WWE Network - [COLORlimegreen]Online[/COLOR] 
+-------------------------------------------------------
+We will let you know if it goes offline
